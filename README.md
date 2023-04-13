@@ -1,5 +1,5 @@
 # application-JSAC
-Internship Application Form For JSAC - GOV_IN
+Yogesh Jha: Internship Application Form For JSAC - GOV_IN
 
 ### Introduction
 
@@ -20,3 +20,10 @@ Project is mainly divided among three main pages. To understand see the bulletin
 * Backend  - C#
 * API      - Web Services
 * Database - AZURE
+
+### Azure Database 
+* Database Name - Application_JSAC
+* Table (Relational)
+  - Internship
+  - user_trach (Null)
+  - exploit (Null)
